@@ -1,0 +1,44 @@
+------------------- FK WITHOUT GK RESULTS --------------------
+
+---- EXPERT ----
+
+199 epochs -> 96%
+
+---- Grayscale DAI Agent ----
+
+Session 1: 89%
+Session 2: 95%
+Session 3: 92%
+Session 4: 90%
+Session 5: 90%
+Session 6: 90%
+Session 7: 89%
+Session 8: 92%
+Session 9: 87%
+Session 10: 91%
+
+---- RGB DAI Agent ----
+
+Session 1: 87%
+Session 2: 92%
+Session 3: 89%
+Session 4: 95%
+Session 5: 91%
+Session 6: 92%
+Session 7: 89%
+Session 8: 91%
+Session 9: 92%
+Session 10: 93%
+
+---- Object Detection DAI Agent ----
+
+Session 1: 88%
+Session 2: 91%
+Session 3: 86%
+Session 4: 90%
+Session 5: 89%
+Session 6: 79%
+Session 7: 88%
+Session 8: 84%
+Session 9: 92%
+Session 10: 88%

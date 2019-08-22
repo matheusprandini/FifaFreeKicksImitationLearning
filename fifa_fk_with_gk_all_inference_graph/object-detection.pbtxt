@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'player'
+}
+
+item {
+  id: 2
+  name: 'ball'
+}
+
+item {
+  id: 3
+  name: 'goal'
+}
+
+item {
+  id: 4
+  name: 'barrier'
+}
+
+item {
+  id: 5
+  name: 'goalkeeper'
+}

@@ -1,0 +1,45 @@
+------------------- FK WITH GK RESULTS --------------------
+
+---- EXPERT ----
+168 epochs -> 7.7%
+
+---- RGB DAI Agent ----
+
+Session 1: 10%
+Session 2: 5%
+Session 3: 7%
+Session 4: 5%
+Session 5: 8%
+Session 6: 5%
+Session 7: 6%
+Session 8: 8%
+Session 9: 6%
+Session 10: 10%
+
+---- Grayscale DAI Agent ----
+
+Session 1: 7%
+Session 2: 3%
+Session 3: 10%
+Session 4: 6%
+Session 5: 4%
+Session 6: 3%
+Session 7: 5%
+Session 8: 6%
+Session 9: 7%
+Session 10: 7%
+
+---- Objecy Detection Only GK DAI Agent ----
+
+DIL -> 2.4%
+
+Session 1: 2%
+Session 2: 5%
+Session 3: 2%
+Session 4: 4%
+Session 5: 4%
+Session 6: 8%
+Session 7: 6%
+Session 8: 4%
+Session 9: 6%
+Session 10: 4%
